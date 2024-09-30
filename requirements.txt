@@ -1,0 +1,16 @@
+certifi
+charset-normalizer
+colorama
+idna
+KalturaApiClient @ git+https://github.com/kaltura/KalturaGeneratedAPIClientsPython.git@dcac7d15f9654f4a2a81971d712d4ed04341f112
+loguru
+lxml
+monday
+pycryptodome
+python-dotenv
+requests
+requests-toolbelt
+six
+urllib3
+watchdog
+win32-setctime
